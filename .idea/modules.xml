@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/E2EProject/E2EProject.iml" filepath="$PROJECT_DIR$/E2EProject/E2EProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Log4j/Log4j.iml" filepath="$PROJECT_DIR$/Log4j/Log4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mavenjava/Mavenjava.iml" filepath="$PROJECT_DIR$/Mavenjava/Mavenjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PageObject/PageObject.iml" filepath="$PROJECT_DIR$/PageObject/PageObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SauceLbs/SauceLbs.iml" filepath="$PROJECT_DIR$/SauceLbs/SauceLbs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestNG/TestNG.iml" filepath="$PROJECT_DIR$/TestNG/TestNG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestNG/TestNGTutorial/TestNGTutorial.iml" filepath="$PROJECT_DIR$/TestNG/TestNGTutorial/TestNGTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amazon/amazon.iml" filepath="$PROJECT_DIR$/amazon/amazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cht/cht.iml" filepath="$PROJECT_DIR$/cht/cht.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cucupro/cucupro.iml" filepath="$PROJECT_DIR$/cucupro/cucupro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datadriven/datadriven.iml" filepath="$PROJECT_DIR$/datadriven/datadriven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demogit/demogit.iml" filepath="$PROJECT_DIR$/demogit/demogit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practise/practise.iml" filepath="$PROJECT_DIR$/practise/practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reports/reports.iml" filepath="$PROJECT_DIR$/reports/reports.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restAssured/restAssured.iml" filepath="$PROJECT_DIR$/restAssured/restAssured.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
